@@ -2,3 +2,4 @@
   "main": "./js/script.js",
   "scripts" : { "build": "node ./js/script.js",
 }
+}
